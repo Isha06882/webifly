@@ -1,0 +1,62 @@
+body{
+      margin: 0;
+
+    border-color: black;
+}
+.oval{
+    width: 100px;
+    height: 30px;
+    border-color: crimson;
+    border-radius: 70px;
+    border: 2px solid #FF0000;
+    padding: 15px;
+    text-align: center;
+}
+.square{
+  width: 150px;
+  height: 100px;  
+  padding: 30px;
+  border: 2px solid red;
+  box-sizing: border-box;
+  text-align: center;
+    
+}
+.oval{
+    width: 60px;
+    height: 30px;
+    border-color: crimson;
+    border-radius: 70px;
+    border: 2px solid #FF0000;
+    padding: 15px;
+    text-align: center;
+    
+}
+.banner{
+  width: 190px;
+  height: 100px;  
+  padding: 30px;
+  border: 2px solid red;
+  box-sizing: border-box;
+  text-align: center;
+}
+.page{
+  width: 190px;
+  height: 100px;  
+  padding: 30px;
+  border: 2px solid red;
+  box-sizing: border-box;
+  text-align: center;
+    
+}
+.movie{
+  width: 190px;
+  height: 100px;  
+  padding: 30px;
+  border: 2px solid red;
+  box-sizing: border-box;
+  text-align: center;
+    
+}
+
+
+        
